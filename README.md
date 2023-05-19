@@ -8,4 +8,4 @@
 當多個類別之間有共同的function，但方法實做的方式有差異，可以將這些共用function寫成Interface，讓其他的子類別去實做這個介面
 
 抽象類別（Abstract Class）使用時機
-當多個類別之間有共同的function or 屬性時，可以將這些共用的地方寫成Abstract Class，讓其他的子類別去繼承
+當多個類別之間有共同的function or 屬性時，可以將這些共用的地方寫成Abstract Class，讓其他的子類別去繼承，我認為他就是用來做共用function的。
